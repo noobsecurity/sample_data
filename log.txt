@@ -42,7 +42,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Sat Jan  5 09:14:16 2020
-X-DSPAM-Confidence: 0.8475
+P-Attack-Confirmation: 0.1475
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39772
@@ -107,7 +107,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 18:10:48 2020
-X-DSPAM-Confidence: 0.6178
+P-Attack-Confirmation: 0.2148
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39771
@@ -172,7 +172,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 16:10:39 2020
-X-DSPAM-Confidence: 0.6961
+P-Attack-Confirmation: 0.4261
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39770
@@ -236,7 +236,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 15:46:24 2020
-X-DSPAM-Confidence: 0.7565
+P-Attack-Confirmation: 0.1345
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39769
@@ -304,7 +304,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 15:03:18 2020
-X-DSPAM-Confidence: 0.7626
+P-Attack-Confirmation: 0.5621
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39766
@@ -377,7 +377,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 14:50:18 2020
-X-DSPAM-Confidence: 0.7556
+P-Attack-Confirmation: 0.3536
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39765
@@ -456,7 +456,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:37:30 2020
-X-DSPAM-Confidence: 0.7002
+P-Attack-Confirmation: 0.3102
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39764
@@ -535,7 +535,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:35:08 2020
-X-DSPAM-Confidence: 0.7615
+P-Attack-Confirmation: 0.4615
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39763
@@ -614,7 +614,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:12:37 2020
-X-DSPAM-Confidence: 0.7601
+P-Attack-Confirmation: 0.2601
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39762
@@ -680,7 +680,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:11:52 2020
-X-DSPAM-Confidence: 0.7605
+P-Attack-Confirmation: 0.9605
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39761
@@ -746,7 +746,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:11:03 2020
-X-DSPAM-Confidence: 0.6959
+P-Attack-Confirmation: 0.5959
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39760
@@ -811,7 +811,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 11:10:22 2020
-X-DSPAM-Confidence: 0.7606
+P-Attack-Confirmation: 0.7606
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39759
@@ -877,7 +877,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 10:38:42 2020
-X-DSPAM-Confidence: 0.7559
+P-Attack-Confirmation: 0.7559
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39758
@@ -946,7 +946,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 10:17:42 2020
-X-DSPAM-Confidence: 0.7605
+P-Attack-Confirmation: 0.7605
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39757
@@ -1011,7 +1011,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 10:04:14 2020
-X-DSPAM-Confidence: 0.6932
+P-Attack-Confirmation: 0.6932
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39756
@@ -1088,7 +1088,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 09:05:31 2020
-X-DSPAM-Confidence: 0.7558
+P-Attack-Confirmation: 0.7558
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39755
@@ -1162,7 +1162,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 07:02:32 2020
-X-DSPAM-Confidence: 0.6526
+P-Attack-Confirmation: 0.6526
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39754
@@ -1248,7 +1248,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 06:08:27 2020
-X-DSPAM-Confidence: 0.6948
+P-Attack-Confirmation: 0.6948
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39753
@@ -1317,7 +1317,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 04:49:08 2020
-X-DSPAM-Confidence: 0.6528
+P-Attack-Confirmation: 0.6528
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39752
@@ -1395,7 +1395,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 04:33:44 2020
-X-DSPAM-Confidence: 0.7002
+P-Attack-Confirmation: 0.7002
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39751
@@ -1481,7 +1481,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Fri Jan  4 04:07:34 2020
-X-DSPAM-Confidence: 0.7554
+P-Attack-Confirmation: 0.7554
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39750
@@ -1545,7 +1545,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 19:51:20 2020
-X-DSPAM-Confidence: 0.6956
+P-Attack-Confirmation: 0.6956
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39749
@@ -1610,7 +1610,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 17:18:23 2020
-X-DSPAM-Confidence: 0.6959
+P-Attack-Confirmation: 0.6959
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39746
@@ -1675,7 +1675,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 17:07:00 2020
-X-DSPAM-Confidence: 0.7556
+P-Attack-Confirmation: 0.7556
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39745
@@ -1739,7 +1739,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 16:34:40 2020
-X-DSPAM-Confidence: 0.9846
+P-Attack-Confirmation: 0.9846
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39744
@@ -1804,7 +1804,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 16:29:07 2020
-X-DSPAM-Confidence: 0.8509
+P-Attack-Confirmation: 0.8509
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39743
@@ -1879,7 +1879,7 @@ X-Content-Type-Message-Body: text/plain; charset=UTF-8
 Content-Type: text/plain; charset=UTF-8
 X-DSPAM-Result: Innocent
 X-DSPAM-Processed: Thu Jan  3 16:23:48 2020
-X-DSPAM-Confidence: 0.9907
+P-Attack-Confirmation: 0.9907
 X-DSPAM-Probability: 0.0000
 
 Details: http://source.hackingtestproject.org/viewsvn/?view=rev&rev=39742
@@ -1907,4 +1907,3 @@ Course grade does not appear on "All Grades" page if no categories in gb
 ----------------------
 This automatic notification message was sent by Sakai Collab (https://collab.hackingtestproject.org/portal) from the Source site.
 You can modify how you receive notifications at My Workspace > Preferences.
-
